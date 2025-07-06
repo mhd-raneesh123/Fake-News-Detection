@@ -4,8 +4,9 @@ This project detects whether a news article is fake or real using NLP techniques
 
 ##  Files
 - `fake_news_detection.ipynb`: Full code in Colab
-- `report.tex`, `output.pdf`: Project documentation
+- `project_report.pdf`: Project documentation
 - Confusion matrix plots
+- model accuracy comparison
 
 ##  Dataset
 - Source: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
